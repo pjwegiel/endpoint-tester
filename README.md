@@ -12,7 +12,7 @@ https://nodejs.org/en/
 
 `yarn`
 
-## 4. Create .env file and remember to restart the app after every change within that file.
+## 4. Create .env file in root directory and remember to restart the app after every change within that file.
 
 ## 5. Run server to preview the app.
 
